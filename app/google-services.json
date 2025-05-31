@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191477114396",
+    "project_id": "cekroda-5f179",
+    "storage_bucket": "cekroda-5f179.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191477114396:android:8e47e52e955f808a4be1d9",
+        "android_client_info": {
+          "package_name": "com.cekroda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYpMX2OLetZ4g9yITr1oj0c1efu7RYrpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
